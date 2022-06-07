@@ -1,6 +1,6 @@
 ℵ | AlephNull Team
 Leader : @RavEthaners
-Co : @ShiroWasHere
+Co : @ShiroWasDreaming
 And more.
 
 Instagram > @rthnofficial_
