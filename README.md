@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zero</h1>
 <h3 align="center">ℵ Official Secondary Account of Zero</h3>
 
-- 🔭 I’m currently fell in love with **@ShiroWasDreaming**
+- 🔭 I’m currently fell in love with **Someone**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
