@@ -63,10 +63,10 @@ Hello! I'm **Ravel Kevin Ethan**, a passionate developer who loves creating inno
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RavEthaners&theme=react" alt="RavEthaners' GitHub Streak" />
 </div>
 
-## 📈 Activity Graph
+## 📈 Repository 
 
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=RavEthaners&theme=react-dark" alt="RavEthaners' Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ravethaners&repo=github-readme-stats" alt="RavEthaners' Repository" />
 </div>
 
 ## 🎨 Anime Corner
@@ -81,13 +81,13 @@ Feel free to recommend me your favorites!
 
 ## 💖 Support Me
 
-If you enjoy my work and would like to support me, you can buy me a coffee!
-
-[![Buy Me a Coffee](https://yourimageurl.com/buymeacoffee.jpg)](https://www.buymeacoffee.com/yourusername)
+If you enjoy my work and would like to support me, you can donate to me :3
+Litecoin : -
+Bitcoin : -
 
 ---
 
 <div align="center">
-  <img src="https://yourimageurl.com/footer.jpg" alt="Footer Image" width="800">
+  <img src="https://media.tenor.com/oKIYgqpUjRsAAAAi/silver-wolf-honkai.gif" alt="Silverwulfie" width="800">
 </div>
 
