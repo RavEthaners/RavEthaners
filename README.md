@@ -5,11 +5,17 @@
 <h1 align="center">Welcome to Rav' Git! 🌟</h1>
 
 <p align="center">
-  <a href="https://github.com/RavEthaners"><img src="https://img.shields.io/github/followers/RavEthaners?label=Followers&style=social" alt="GitHub Followers"></a>
-  <a href="https://twitter.com/RavelEthan"><img src="https://img.shields.io/twitter/follow/RavelEthan?label=Twitter&style=social" alt="Twitter Follow"></a>
-  <a href="https://instagram.com/raveltrader" target="_blank"><img src="https://img.shields.io/badge/Instagram-%40raveltrader-E4405F?style=social&logo=Instagram&logoColor=white"alt="Instagram">
+  <a href="https://github.com/RavEthaners">
+    <img src="https://img.shields.io/github/followers/RavEthaners?label=Followers&style=social" alt="GitHub Followers">
+  </a>
+  <a href="https://twitter.com/RavelEthan">
+    <img src="https://img.shields.io/twitter/follow/RavelEthan?label=Twitter&style=social" alt="Twitter Follow">
+  </a>
+  <a href="https://instagram.com/raveltrader" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%40raveltrader-E4405F?style=social&logo=Instagram&logoColor=white" alt="Instagram">
   </a>
 </p>
+
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Cybersecurity+Enthusiast;Anime+Lover" alt="Typing SVG"></a>
