@@ -6,8 +6,9 @@
 
 <p align="center">
   <a href="https://github.com/RavEthaners"><img src="https://img.shields.io/github/followers/RavEthaners?label=Followers&style=social" alt="GitHub Followers"></a>
-  <a href="https://twitter.com/yourtwitterhandle"><img src="https://img.shields.io/twitter/follow/yourtwitterhandle?label=Twitter&style=social" alt="Twitter Follow"></a>
-  <a href="https://linkedin.com/in/yourlinkedinprofile"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://twitter.com/RavelEthan"><img src="https://img.shields.io/twitter/follow/RavelEthan?label=Twitter&style=social" alt="Twitter Follow"></a>
+  <a href="https://instagram.com/raveltrader" target="_blank"><img src="https://img.shields.io/badge/Instagram-%40raveltrader-E4405F?style=social&logo=Instagram&logoColor=white"alt="Instagram">
+  </a>
 </p>
 
 <p align="center">
@@ -18,7 +19,7 @@
 
 ## 👋 About Me
 
-Hello! I'm **Ravel Kevin Ethan**, a passionate developer who loves creating innovative solutions and exploring the world of cybersecurity. Besides coding, I'm a huge anime fan, especially of Silverwolf and Furina!
+Hello! I'm **Ravel Kevin Ethan**, a passionate developer who loves creating innovative solutions and exploring the world of cybersecurity. Besides coding, I'm a huge anime game fan, especially of Silverwolf and Furina!
 
 -  Currently learning **Vue.js, CybroL`s**
 -  An expert of **Trading Bots, Cybersecurity, Anime**
@@ -83,12 +84,10 @@ Feel free to recommend me your favorites!
 ## 💖 Support Me
 
 If you enjoy my work and would like to support me, you can donate to me :3
-Litecoin : -
-Bitcoin : -
-
+Telegram : @TheRavels
 ---
 
 <div align="center">
-  <img src="https://media.tenor.com/oKIYgqpUjRsAAAAi/silver-wolf-honkai.gif" alt="Silverwulfie" width="400">
+  <img src="https://media.tenor.com/oKIYgqpUjRsAAAAi/silver-wolf-honkai.gif" alt="Silverwulfie" width="300">
 </div>
 
