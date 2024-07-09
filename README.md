@@ -2,7 +2,7 @@
   <img src="https://i.pinimg.com/originals/13/c3/d6/13c3d6d30072b6817d2a9af47aabdc8c.gif" alt="Silverwolf" width="500">
 </div>
 
-<h1 align="center">Welcome to RavEthaners' GitHub! 🌟</h1>
+<h1 align="center">Welcome to Rav' Git! 🌟</h1>
 
 <p align="center">
   <a href="https://github.com/RavEthaners"><img src="https://img.shields.io/github/followers/RavEthaners?label=Followers&style=social" alt="GitHub Followers"></a>
@@ -18,7 +18,7 @@
 
 ## 👋 About Me
 
-Hello! I'm **Ravel Kevin Ethan**, a passionate developer who loves creating innovative solutions and exploring the world of cybersecurity. Besides coding, I'm a huge anime fan, especially of Keqing and Furina!
+Hello! I'm **Ravel Kevin Ethan**, a passionate developer who loves creating innovative solutions and exploring the world of cybersecurity. Besides coding, I'm a huge anime fan, especially of Silverwolf and Furina!
 
 - 🌱 Currently learning **Typescript, Android Studio**
 - 💬 Ask me about **Trading Bots, Cybersecurity, Anime**
@@ -55,7 +55,7 @@ Hello! I'm **Ravel Kevin Ethan**, a passionate developer who loves creating inno
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RavEthaners&show_icons=true&theme=react&include_all_commits=true&count_private=true" alt="RavEthaners' GitHub stats" />
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ravethaners&theme=aura_dark" alt="RavEthaners' GitHub stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RavEthaners&layout=compact&langs_count=7&theme=react" alt="RavEthaners' Top Languages" />
 </div>
 
