@@ -20,9 +20,9 @@
 
 Hello! I'm **Ravel Kevin Ethan**, a passionate developer who loves creating innovative solutions and exploring the world of cybersecurity. Besides coding, I'm a huge anime fan, especially of Silverwolf and Furina!
 
-- 🌱 Currently learning **Typescript, Android Studio**
-- 💬 Ask me about **Trading Bots, Cybersecurity, Anime**
-- 📫 How to reach me: **ravel@example.com**
+-  Currently learning **Vue.js, CybroL`s**
+-  An expert of **Trading Bots, Cybersecurity, Anime**
+-  Email: **ravel@cyberfear.com**
 
 ## 🛠️ Tech Stack
 
@@ -56,7 +56,6 @@ Hello! I'm **Ravel Kevin Ethan**, a passionate developer who loves creating inno
 
 <div align="center">
   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ravethaners&theme=aura_dark" alt="RavEthaners' GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RavEthaners&layout=compact&langs_count=7&theme=react" alt="RavEthaners' Top Languages" />
 </div>
 
 <div align="center">
@@ -65,13 +64,22 @@ Hello! I'm **Ravel Kevin Ethan**, a passionate developer who loves creating inno
 
 ## 📈 Website
 
-<div align="center">
+<div align="center" style="background-color: #000; padding: 20px; border-radius: 10px;">
   <a href="https://rav.nekocracks.tech" target="_blank" style="text-decoration: none;">
-    <h2 style="color: #0366d6; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-      Visit Rav's: <span style="color: #ff69b4;">https://rav.nekocracks.tech</span>
+    <h2 style="color: #00ff00; font-family: 'Courier New', Courier, monospace; animation: blink 1.5s infinite;">
+      Visit Rav's Blog: <span style="color: #ff69b4;">https://rav.nekocracks.tech</span>
     </h2>
   </a>
 </div>
+
+<style>
+@keyframes blink {
+  0% { opacity: 1; }
+  50% { opacity: 0.5; }
+  100% { opacity: 1; }
+}
+</style>
+
 
 ## 🎨 Anime Corner
 
