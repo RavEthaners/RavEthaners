@@ -63,10 +63,14 @@ Hello! I'm **Ravel Kevin Ethan**, a passionate developer who loves creating inno
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RavEthaners&theme=react" alt="RavEthaners' GitHub Streak" />
 </div>
 
-## 📈 Repository 
+## 📈 Website
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ravethaners&repo=github-readme-stats" alt="RavEthaners' Repository" />
+  <a href="https://rav.nekocracks.tech" target="_blank" style="text-decoration: none;">
+    <h2 style="color: #0366d6; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+      Visit Rav's: <span style="color: #ff69b4;">https://rav.nekocracks.tech</span>
+    </h2>
+  </a>
 </div>
 
 ## 🎨 Anime Corner
@@ -88,6 +92,6 @@ Bitcoin : -
 ---
 
 <div align="center">
-  <img src="https://media.tenor.com/oKIYgqpUjRsAAAAi/silver-wolf-honkai.gif" alt="Silverwulfie" width="800">
+  <img src="https://media.tenor.com/oKIYgqpUjRsAAAAi/silver-wolf-honkai.gif" alt="Silverwulfie" width="400">
 </div>
 
