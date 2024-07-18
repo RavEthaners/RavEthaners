@@ -56,6 +56,8 @@ Hello! I'm **Ravel Kevin Ethan**, a passionate developer who loves creating inno
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![RavelXC](https://img.shields.io/badge/-RavelXC-05122A?style=flat&logo=ravelxc)&nbsp;
+![Silverwolf](https://img.shields.io/badge/-Silverwolf-05122A?style=flat&logo=silverwolf)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=unity)&nbsp;
 
